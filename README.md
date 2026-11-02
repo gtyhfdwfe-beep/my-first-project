@@ -1,2 +1,14 @@
-# my-first-project
-My first GitHub project. Learning and exploring.
+# 我的 GitHub 学习之旅
+
+你好！这是我的第一个 GitHub 项目。
+
+## 我的学习目标
+
+- 学习 GitHub
+- 了解人工智能
+- 学习 Python
+- 探索开源软件
+
+## 我的目标
+
+不断学习，不断进步！
